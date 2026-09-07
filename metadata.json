@@ -1,0 +1,6 @@
+{
+  "name": "Laboratorio de Firewall Docker & UFW",
+  "description": "Laboratorio interactivo y práctico de Firewall y enrutamiento con Docker Desktop en Windows, Ubuntu UFW y servidores Nginx.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
